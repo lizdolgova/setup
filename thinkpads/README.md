@@ -1,3 +1,3 @@
 # thinkpads
 
-Some configs, scripts, and tweaks I did.
+Some configs, scripts, and tweaks I use.
