@@ -1,3 +1,4 @@
 # Desktop
 
-Configs, setups, and tweaks for my desktop builds.
+Build notes, configs, and tweaks for my desktop PCs.  
+Covers hardware, OS installs, and custom scripts.
