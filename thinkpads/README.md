@@ -1,3 +1,4 @@
 # thinkpads
 
-Some configs, scripts, and tweaks I use.
+Configs, scripts, and tweaks for my ThinkPad laptops.  
+Mostly Linux-focused, tuned for development and security.
