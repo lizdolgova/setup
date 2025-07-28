@@ -1,3 +1,4 @@
 # Shared
 
-Scripts and small things I use on several or all machines.
+Scripts, aliases, and small tools I use across all my machines.  
+Cross-platform basics, setup helpers, and dotfiles.
